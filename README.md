@@ -1,7 +1,7 @@
 # ofxBoxRemove
 Bounding Box removal using Inpaint function of OpenCV
 
-![result example]( https://github.com/bemoregt/ofxrandomCircle/blob/master/sarching.png "RandSearching")
+![result example]( https://github.com/bemoregt/ofxBoxRemove/blob/master/BoxRemoveTest.png "Inpaint")
 - Test Result
 - Clockwise order : before, after, mask, dilated mask
 
