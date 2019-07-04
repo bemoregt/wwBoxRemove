@@ -1,5 +1,5 @@
 # ofxBoxRemove
-Bounding Box removal using Inpaint function of OpenCV
+Bounding Box removal for Openframeworks using ofxCv.
 
 ![result example]( https://github.com/bemoregt/ofxBoxRemove/blob/master/BoxRemoveTest.png "Inpaint")
 - Test Result
