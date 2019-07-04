@@ -3,7 +3,7 @@ Bounding Box removal for Openframeworks using ofxCv.
 
 ![result example]( https://github.com/bemoregt/ofxBoxRemove/blob/master/BoxRemoveTest.png "Inpaint")
 - Test Result
-- Clockwise order : before, after, mask, dilated mask
+- Clockwise order : before, after, dilated mask, original mask.
 
 ### Algorithm
 - Make Mask using InRange fuction of OpenCV
