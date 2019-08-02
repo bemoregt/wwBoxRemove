@@ -1,4 +1,4 @@
-# ofxBoxRemove
+# wwBoxRemove
 Bounding Box removal for Openframeworks using ofxCv.
 
 ![result example]( https://github.com/bemoregt/ofxBoxRemove/blob/master/BoxRemoveTest.png "Inpaint")
